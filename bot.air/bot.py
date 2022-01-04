@@ -336,12 +336,12 @@ def findCatacombs():
         swipe((640, 713), (1870,229), duration=0.8)
         sleep(1)
     swipe((1361,589), (1154,836), duration=0.8)
-    sleep(1)
+    sleep(3)
     return
 
 def catacombs():
-    if (not touchifexs(Template(r"tpl1611212996129.png", record_pos=(-0.086, -0.021), resolution=(2280, 1080)))):
-        touchifexs(Template(r"tpl1640814986519.png", record_pos=(-0.014, 0.027), resolution=(2280, 1080)))
+    if (not touchifexs(Template(r"tpl1641332829094.png", record_pos=(0.204, -0.022), resolution=(2280, 1080)))):
+        touchifexs(Template(r"tpl1611212996129.png", record_pos=(-0.086, -0.021), resolution=(2280, 1080)))
     sleep(2)
     touch(Template(r"tpl1640812569191.png", record_pos=(0.039, 0.037), resolution=(2280, 1080)))
     sleep(4)
