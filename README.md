@@ -9,10 +9,10 @@ GoG_bot collect resources in Guns of Glory game.
 
 ## Steps:  
 ### I. Android device setup
-1. If game not installed, install Guns of glory on the Android.
-2. Log in account if not yet.
-3. Switch on developer mode on device.
-4. Allow input imitation (taps, press buttons, etc.).
+1. Switch on developer mode on device.
+2. Allow input imitation (taps, press buttons, etc.).
+3. If game not installed, install Guns of glory on the Android.
+4. Log in account if not yet.
 
 ### II. Airtest project setup
 1. Install Airtest on PC.
